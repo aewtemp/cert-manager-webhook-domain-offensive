@@ -1,4 +1,4 @@
-module github.com/cert-manager/webhook-example
+module github.com/aewtemp/cert-manager-webhook-domain-offensive
 
 go 1.22.0
 

@@ -1,0 +1,7 @@
+{
+  "ApiURL": "https://my.do.de/api/letsencrypt",
+  "SecretKeyRef": {
+    "name": "domain-offensive-secret",
+    "key": "token"
+  }
+}
